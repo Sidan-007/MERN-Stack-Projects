@@ -1,2 +1,2 @@
-# Full stack project
-I made projects like music website and interior design website 
+# MERN Stack Projects
+I work on projects related to Mern Stack i work with React, Node, Express and make project.
